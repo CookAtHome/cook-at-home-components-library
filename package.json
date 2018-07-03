@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bennetteR/cook-at-home-components-library.git"
+    "url": "git+https://github.com/CookAtHome/cook-at-home-components-library.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bennetteR/cook-at-home-components-library/issues"
+    "url": "https://github.com/CookAtHome/cook-at-home-components-library/issues"
   },
-  "homepage": "https://github.com/bennetteR/cook-at-home-components-library#readme",
+  "homepage": "https://github.com/CookAtHome/cook-at-home-components-library#readme",
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.8",
     "@storybook/addon-links": "^3.4.8",
