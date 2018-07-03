@@ -12,6 +12,6 @@ after_success:
 deploy:
   - provider: npm
     email: benedicte.rivalain@gmail.com
-    api_key: FvjPlzuYUWjr9OPqffsx8w
+    api_key: dbac267d-a632-41cf-8bb9-3ac457950bce
     on:
       branch: master
