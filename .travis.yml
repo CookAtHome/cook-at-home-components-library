@@ -8,10 +8,9 @@ before_script:
 script:
 - npm run lint
 after_success:
+- npm publish
 deploy:
   - provider: npm
-    email: benedicte.rivalain@gmail.com
-    api_key:
-      secure: FvjPlzuYUWjr9OPqffsx8w
+    api_key: FvjPlzuYUWjr9OPqffsx8w
     on:
       branch: master
